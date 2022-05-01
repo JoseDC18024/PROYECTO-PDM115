@@ -36,6 +36,9 @@ Da un ejemplo
 Despliegue 📦
 Agrega notas adicionales sobre como hacer deploy
 
+ENLACE DE PROTOTIPO EN FIGMA: 
+https://www.figma.com/file/wt4uM4s4nqR2Hpt47igfou/Untitled?node-id=0%3A1
+
 Construido con 🛠️
 Menciona las herramientas que utilizaste para crear tu proyecto
 
