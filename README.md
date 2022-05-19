@@ -54,6 +54,8 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra Wiki
 Versionado 📌
 Usamos SemVer para el versionado. Para todas las versiones disponibles, mira los tags en este repositorio.
 
+
+
 Autores ✒️
 Carlos Roberto Orellana Miranda - OM17034
 José Luis Alberto Abrego - AA17015
@@ -66,11 +68,8 @@ Fulanito Detal - Documentación - fulanitodetal
 También puedes mirar la lista de todos los contribuyentes quíenes han participado en este proyecto.
 
 Licencia 📄
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo LICENSE.md para detalles
+Este aplicativo movil se encuentra bajo una licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0),(https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)]
 
-Expresiones de Gratitud 🎁
+
+Gracias por su visita, esperamos que haya sido de su agrado el desarrollo de esta aplicación y el proyecto en general.
 Comenta a otros sobre este proyecto 📢
-Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
-Da las gracias públicamente 🤓.
-Dona con cripto a esta dirección: 0xf253fc233333078436d111175e5a76a649890000
-etc.
