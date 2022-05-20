@@ -1,59 +1,34 @@
 # PROYECTO-PDM115
-Desarrollo de una aplicación móvil para el control del mantenimiento de vehículos
-Esta aplicacion movil permite gesionar el mantenimiento de los vehiculos personales, tomando diferentes fechas en las cuales se realizan los mantenimientos, programación de futuros mantenimientos y los costes totales generados por cada mantenimiento. Esta gestion podra controlarse para los diferentes vehiculos que posea el usuario ademas de llevar el registro de los lugares donde se realice cada mantenimiento con sus respectivos contactos y el costo de cada uno de los mantenimientos realizados
+Desarrollo de una aplicación móvil para el control del mantenimiento de vehículos.
+
+Descripción📋
+Esta aplicacion movil permite gesionar el mantenimiento de los vehiculos personales, tomando diferentes fechas en las cuales se realizan los mantenimientos, programación de futuros mantenimientos y los costes totales generados por cada mantenimiento. Esta gestion podra controlarse para los diferentes vehiculos que posea el usuario ademas de llevar el registro de los lugares donde se realice cada mantenimiento con sus respectivos contactos y el costo de cada uno de los mantenimientos realizados.
+
 
 Comenzando 🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
-Mira Deployment para conocer como desplegar el proyecto.
 
-Pre-requisitos 📋
-Que cosas necesitas para instalar el software y como instalarlas
+Requisitos 📋
+Android 5.1+
 
-Da un ejemplo
+
 Instalación 🔧
-Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose
+Transferir la apk a el SmartPhone Android o Emulador movil, buscarla en el explorador de archivos, instalarla.
 
-Dí cómo será ese paso
 
-Da un ejemplo
-Y repite
+Funcionamiento🔧
+Luego de instalar la aplicacion, al abrirla nos aparecerá el login, donde se debe de registrar, luego ingresar al menu donde apareceran las opciones disponibles para utilizar.
 
-hasta finalizar
-Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo
 
-Ejecutando las pruebas ⚙️
-Explica como ejecutar las pruebas automatizadas para este sistema
-
-Analice las pruebas end-to-end 🔩
-Explica que verifican estas pruebas y por qué
-
-Da un ejemplo
-Y las pruebas de estilo de codificación ⌨️
-Explica que verifican estas pruebas y por qué
-
-Da un ejemplo
-Despliegue 📦
-Agrega notas adicionales sobre como hacer deploy
-
-ENLACE DE PROTOTIPO EN FIGMA: 
+Enlace de prototipo en figma.
 https://www.figma.com/file/wt4uM4s4nqR2Hpt47igfou/PROTOTIPO-APLICACI%C3%93N-MOVIL-CAR-SERVICE---PDM115?node-id=0%3A1
 
+
 Construido con 🛠️
-Menciona las herramientas que utilizaste para crear tu proyecto
-
-Dropwizard - El framework web usado
-Maven - Manejador de dependencias
-ROME - Usado para generar RSS
-Contribuyendo 🖇️
-Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-Wiki 📖
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra Wiki
-
-Versionado 📌
-Usamos SemVer para el versionado. Para todas las versiones disponibles, mira los tags en este repositorio.
-
+Android Studio - IDE de desarrollo
+Java - Lenguaje de programación
+SQLite - Gestor de base de datos
 
 
 Autores ✒️
@@ -62,14 +37,18 @@ José Luis Alberto Abrego - AA17015
 Jose Esteban Duran Cruz - DC18024
 Adiel René Lara Valenzuela - LV19007
 
-Andrés Villanueva - Trabajo Inicial - villanuevand
-Fulanito Detal - Documentación - fulanitodetal
 
-También puedes mirar la lista de todos los contribuyentes quíenes han participado en este proyecto.
+Tareas Desempeñadas✒️
+Carlos Roberto Orellana Miranda - Programación de la app - crom503
+José Luis Alberto Abrego - Desarrollo de la base de datos - Jlalberto23
+Jose Esteban Duran Cruz - Modelado de intefaces de usuario, gestión en Trello y en GITHUB - JoseDC18024
+Adiel René Lara Valenzuela - Documentación - Adiellarax
+
 
 Licencia 📄
 Este aplicativo movil se encuentra bajo una licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0),(https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)]
 
 
 Gracias por su visita, esperamos que haya sido de su agrado el desarrollo de esta aplicación y el proyecto en general.
-Comenta a otros sobre este proyecto 📢
+Comenta y comparte a otros este proyecto 📢
+Agradecemos sus sugerencias, para el mejoramiento de nuestra aplicación.
