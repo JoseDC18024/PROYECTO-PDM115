@@ -21,28 +21,28 @@ Funcionamiento🔧
 Luego de instalar la aplicacion, al abrirla nos aparecerá el login, donde se debe de registrar, luego ingresar al menu donde apareceran las opciones disponibles para utilizar.
 
 
-Enlace de prototipo en figma.
+Enlace de prototipo en figma:
 https://www.figma.com/file/wt4uM4s4nqR2Hpt47igfou/PROTOTIPO-APLICACI%C3%93N-MOVIL-CAR-SERVICE---PDM115?node-id=0%3A1
 
 
-Construido con 🛠️
-Android Studio - IDE de desarrollo
-Java - Lenguaje de programación
-SQLite - Gestor de base de datos
+Construido con 🛠️:
+Android Studio - IDE de desarrollo, 
+Java - Lenguaje de programación,
+SQLite - Gestor de base de datos.
 
 
-Autores ✒️
-Carlos Roberto Orellana Miranda - OM17034
-José Luis Alberto Abrego - AA17015
-Jose Esteban Duran Cruz - DC18024
-Adiel René Lara Valenzuela - LV19007
+Autores ✒️:
+Carlos Roberto Orellana Miranda (OM17034) - 
+José Luis Alberto Abrego (AA17015) - 
+Jose Esteban Duran Cruz (DC18024) - 
+Adiel René Lara Valenzuela (LV19007).
 
 
-Tareas Desempeñadas✒️
-Carlos Roberto Orellana Miranda - Programación de la app - crom503
-José Luis Alberto Abrego - Desarrollo de la base de datos - Jlalberto23
-Jose Esteban Duran Cruz - Modelado de intefaces de usuario, gestión en Trello y en GITHUB - JoseDC18024
-Adiel René Lara Valenzuela - Documentación - Adiellarax
+Tareas Desempeñadas✒️:
+Carlos Roberto Orellana Miranda - Programación de la app - crom503, 
+José Luis Alberto Abrego - Desarrollo de la base de datos - Jlalberto23, 
+Jose Esteban Duran Cruz - Modelado de intefaces de usuario, gestión en Trello y en GITHUB - JoseDC18024, 
+Adiel René Lara Valenzuela - Documentación - Adiellarax.
 
 
 Licencia 📄
@@ -50,5 +50,4 @@ Este aplicativo movil se encuentra bajo una licencia [Atribución-NoComercial-Co
 
 
 Gracias por su visita, esperamos que haya sido de su agrado el desarrollo de esta aplicación y el proyecto en general.
-Comenta y comparte a otros este proyecto 📢
-Agradecemos sus sugerencias, para el mejoramiento de nuestra aplicación.
+Comenta y comparte a otros este proyecto 📢Agradecemos sus sugerencias, para el mejoramiento de nuestra aplicación.
